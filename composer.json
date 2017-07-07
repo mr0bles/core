@@ -1,6 +1,7 @@
 {
     "name": "mr0bles/core",
-    "description": "Nucleo de herramientasz",
+    "description": "Nucleo de herramientas",
+    "license": "MIT",
 	"authors": [
         {
             "name": "Manuel Robles Chavez",
