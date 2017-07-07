@@ -7,7 +7,7 @@
             "email": "mrobles123456@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.4"
     }
